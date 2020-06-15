@@ -1,4 +1,6 @@
 
+name: Testworkflow
+
 on:
   push:
     tags:
